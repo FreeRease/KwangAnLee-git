@@ -125,10 +125,9 @@ XGBoost의 AP 평균은 0.1388로 로지스틱 회귀의 0.1123 대비 약 23.6%
 | 활동 | 내용 | 자료 |
 | :--- | :--- | :--- |
 | **LG Aimers / Data Intelligence 3기** | LG AI연구원 주관 활동 · 2023.07.01–2023.09.18 | [활동 대회](https://dacon.io/competitions/official/236129/overview/description) · [공식 사이트](https://www.lgaimers.ai/) |
-| **HD현대 AI Challenge** | 전처리·회귀 모델·앙상블 실험 · 기존 활동 기록: Top 23% | [실험 노트북](%E1%84%92%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%A2%E1%84%8B%E1%85%A3%E1%86%BC%20%283%29.ipynb) · [리더보드](https://dacon.io/competitions/official/236158/leaderboard) |
 | **제주 특산물 가격 예측 AI 경진대회** | 가격 예측 경진대회 참여 기록 | 기존 활동 이력 |
 
-<sub>과거 경진대회 기록과 노트북은 학습·실험 이력입니다. 대표 프로젝트의 개인 담당 범위와 검증 결과는 각 저장소에 별도로 정리했습니다.</sub>
+<sub>대표 프로젝트의 개인 담당 범위와 검증 결과는 각 저장소에 별도로 정리했습니다.</sub>
 
 ---
 
