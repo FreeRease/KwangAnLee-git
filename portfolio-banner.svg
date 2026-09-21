@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">KwangAn Lee — Data Science, Machine Learning and LLM</title>
+  <desc id="desc">Portfolio banner illustrating the flow from data to models to evidence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#172C46"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E2E8F0" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="48" width="38" height="4" rx="2" fill="#5EEAD4"/>
+  <text x="52" y="87" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3">DATA SCIENCE PORTFOLIO</text>
+  <text x="48" y="154" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">KwangAn Lee</text>
+  <text x="52" y="194" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="19">Data Science / Machine Learning / LLM</text>
+  <text x="52" y="253" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="0.5">FROM DATA TO MODELS, WITH EVIDENCE.</text>
+  <path d="M735 121H817Q837 121 837 141V171Q837 191 857 191H910" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M985 166V111Q985 91 1005 91H1078" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="652" y="88" width="138" height="68" rx="13" fill="#1C314D" stroke="#365475"/>
+  <rect x="869" y="158" width="150" height="68" rx="13" fill="#1C314D" stroke="#4677A7"/>
+  <rect x="1029" y="58" width="130" height="68" rx="13" fill="#183C42" stroke="#4FBAAC"/>
+  <text x="676" y="116" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">01 / INPUT</text>
+  <text x="676" y="139" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">DATA</text>
+  <text x="891" y="186" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">02 / BUILD</text>
+  <text x="891" y="209" fill="#E2E8F0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">MODEL</text>
+  <text x="1048" y="86" fill="#99F6E4" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">03 / CHECK</text>
+  <text x="1048" y="108" fill="#F0FDFA" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">EVIDENCE</text>
+  <circle cx="837" cy="151" r="5" fill="#93C5FD"/>
+  <circle cx="985" cy="137" r="5" fill="#5EEAD4"/>
+  <path d="M652 268H1159" stroke="#365475" stroke-width="1"/>
+  <text x="652" y="290" fill="#7C96B4" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">PREPROCESS / EXPERIMENT / VALIDATE</text>
+</svg>
