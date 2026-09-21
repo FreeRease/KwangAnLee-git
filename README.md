@@ -125,7 +125,15 @@ XGBoost의 AP 평균은 0.1388로 로지스틱 회귀의 0.1123 대비 약 23.6%
 | 활동 | 내용 | 자료 |
 | :--- | :--- | :--- |
 | **LG Aimers / Data Intelligence 3기** | LG AI연구원 주관 활동 · 2023.07.01–2023.09.18 | [활동 대회](https://dacon.io/competitions/official/236129/overview/description) · [공식 사이트](https://www.lgaimers.ai/) |
-| **제주 특산물 가격 예측 AI 경진대회** | 가격 예측 경진대회 참여 기록 | 기존 활동 이력 |
+| **제주 특산물 가격 예측 AI 경진대회** | 개인 참가 · **68위 / 1,093 · 상위 약 6.2%** | [DACON 성적 기록](https://dacon.io/myprofile/421398/competition) · [대회 소개](https://dacon.io/competitions/official/236176/overview/description) |
+
+### 제주 특산물 가격 예측 · Competition Highlight
+
+제주특별자치도가 주최하고 제주테크노파크와 DACON이 주관한 **제주 특산물 가격 예측 AI 경진대회**에 개인 참가했습니다. 양배추·무·당근·브로콜리·감귤 등 제주 대표 특산물의 가격을 예측하는 **시계열 회귀 과제**로, 예측 오차는 **RMSE**를 기준으로 평가했습니다.
+
+DACON 프로필의 완료된 대회 기록에서 **68위 / 1,093**을 기록했으며, 이는 순위를 기준으로 계산한 **상위 약 6.2%**에 해당합니다. 농산물 가격 예측 문제에 머신러닝을 적용하고, 대회 평가를 통해 예측 결과를 확인한 경험입니다.
+
+<sub>순위 출처: <a href="https://dacon.io/myprofile/421398/competition">kwanganlee의 DACON 완료 대회 기록</a> · 평가 기준: <a href="https://dacon.io/competitions/official/236176/overview/rules">공식 대회 규칙</a> · 상위 비율: 68 ÷ 1,093 × 100 ≈ 6.22%</sub>
 
 <sub>대표 프로젝트의 개인 담당 범위와 검증 결과는 각 저장소에 별도로 정리했습니다.</sub>
 
